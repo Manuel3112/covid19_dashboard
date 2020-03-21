@@ -1,0 +1,22 @@
+{
+  "name": "covid19_dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Manuel3112/covid19_dashboard.git"
+  },
+  "author": "Manuel Seifert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Manuel3112/covid19_dashboard/issues"
+  },
+  "homepage": "https://gitlab.com/Manuel3112/covid19_dashboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
